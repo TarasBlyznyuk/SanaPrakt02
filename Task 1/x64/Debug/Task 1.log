@@ -1,2 +1,4 @@
 ﻿  Task 1.cpp
+C:\Users\KREUW\source\repos\SanaPrakt02\Task 1\Task 1.cpp(14,2): warning C4551: function call missing argument list
+  LINK : C:\Users\KREUW\source\repos\SanaPrakt02\x64\Debug\Task 1.exe not found or not built by the last incremental link; performing full link
   Task 1.vcxproj -> C:\Users\KREUW\source\repos\SanaPrakt02\x64\Debug\Task 1.exe

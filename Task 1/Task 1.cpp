@@ -11,5 +11,6 @@ int main()
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	scanf_s;
 	return 0;
 }
