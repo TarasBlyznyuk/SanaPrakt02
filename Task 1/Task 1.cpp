@@ -9,7 +9,7 @@ int main()
 	printf("\nДовільне повідомлення\n");
 	printf("\nДовільне повідомлення\n");
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
-	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
-	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	printf("\nДовільне повідомлення\n");
+	printf("\nДовільне повідомлення\n");
 	return 0;
 }
