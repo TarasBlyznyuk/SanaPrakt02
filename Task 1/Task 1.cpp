@@ -5,9 +5,9 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	printf("Курси Sana Commerce Software Development Bootcamp\n");
-	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
-	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	printf("Довільне повідомлення\n");
+	printf("\nДовільне повідомлення\n");
+	printf("\nДовільне повідомлення\n");
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
 	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
