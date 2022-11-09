@@ -1,7 +1,15 @@
 #include <stdio.h>
+#include <windows.h>
 
 int main()
 {
-	printf("Sana Commerce Software Development Bootcamp");
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+	printf("Курси Sana Commerce Software Development Bootcamp\n");
+	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
+	printf("\nКурси Sana Commerce Software Development Bootcamp\n");
 	return 0;
 }
